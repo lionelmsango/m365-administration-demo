@@ -86,5 +86,5 @@ This document explains how I set up the M365 environment for this demo project.
 - Security: 1 hour
 - **Total: ~6 hours**
 
-- 
+
    
