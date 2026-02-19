@@ -66,7 +66,7 @@ This project demonstrates basic Microsoft 365 Business Standard administration c
 - ![Multi-factor Authentication](https://github.com/lionelmsango/m365-administration-demo/blob/eea547653dbec847177c858592fa0e9f37e03d65/screenshots/%2006-security/Screenshot_26.jpeg)
 
 ## Skills Demonstrated
-- 
+
 ✅**User Lifecycle Management:** Creating, licensing, and managing user accounts  
 ✅**Exchange Online:** Shared mailboxes, distribution lists, mail flow rules  
 ✅**Microsoft Teams:** Team creation, channels, policies  
