@@ -30,7 +30,7 @@ This project demonstrates basic Microsoft 365 Business Standard administration c
 - Thomas Meyer (IT Support, Bonn)
 - Mfua Sang0 (It Support, Bonn)
 - Sarah Fischer (Communications Manager, Berlin)
-- ![Users Overview][screenshots/02-user-management/03-all-users-created.png](https://github.com/lionelmsango/m365-administration-demo/blob/d8f64fbe9822cd40c3724a9e0e26c0d04709ff9d/screenshots/02-user-management/s8.jpg)
+- ![Users Overview](https://github.com/lionelmsango/m365-administration-demo/blob/d8f64fbe9822cd40c3724a9e0e26c0d04709ff9d/screenshots/02-user-management/s8.jpg)
 
 ### 2. Exchange Online
 - Created shared mailbox: support@Lion609.onmicrosoft.com
