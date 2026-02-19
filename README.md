@@ -20,7 +20,7 @@ This project demonstrates basic Microsoft 365 Business Standard administration c
 ## What I Built
 
 ### 1. User Management
-- Created 6 users with proper licensing
+- Created 7 users with proper licensing
 - Configured departments and job titles
   
 **Users Created:**
@@ -28,8 +28,9 @@ This project demonstrates basic Microsoft 365 Business Standard administration c
 - Peter Schmidt (Climate Analyst, Bonn)
 - Anna Weber (Advocacy Coordinator, Berlin)
 - Thomas Meyer (IT Support, Bonn)
-- Mfua Sang0 (It Support, Bonn)
+- Mfua Sango (It Support, Bonn)
 - Sarah Fischer (Communications Manager, Berlin)
+  
 - ![Users Overview](https://github.com/lionelmsango/m365-administration-demo/blob/d8f64fbe9822cd40c3724a9e0e26c0d04709ff9d/screenshots/02-user-management/s8.jpg)
 
 ### 2. Exchange Online
