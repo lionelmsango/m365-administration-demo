@@ -1,4 +1,4 @@
-# Microsoft 365 Administration Demo
+# Microsoft 365 Administration
 
 **Author:** Lionel Sango  
 **Date:** February 2026  
