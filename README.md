@@ -1,10 +1,12 @@
 # Microsoft 365 Administration
 
-**Author:** Lionel Sango  
-**Date:** February 2026  
 **Purpose:** Demonstrate M365 administration skills for IT support role
 
 ---
+
+## Kurzbeschreibung
+
+Dieses Projekt demonstriert die Administration einer M365-Umgebung für eine Organisation mit 6 Testbenutzern aus verschiedenen Standorten und Abteilungen. Konfiguriert wurden Exchange Online (Shared Mailboxes, Verteilergruppen, Mail-Flow-Regeln), Microsoft Teams (Teamstruktur, Kanäle, Richtlinien), SharePoint Online sowie zentrale Sicherheitsmaßnahmen: MFA für alle Benutzer, Sicherheitsstandards in Entra ID und Threat-Protection-Richtlinien. Das Projekt deckt den gesamten Administrationszyklus vom Benutzer-Lifecycle bis zur Sicherheitskonfiguration ab.
 
 ## Project Overview
 
